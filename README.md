@@ -51,5 +51,5 @@ The application uses 7 core tables:
 
 ## Author
 
-**Muhammad Naveed**
+**Muhammad Naveed & Ameer Hamza**
 BS in Information Technology, Bahauddin Zakariya University (2020–2024)
